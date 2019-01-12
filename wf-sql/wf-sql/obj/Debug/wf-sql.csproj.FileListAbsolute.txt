@@ -1,0 +1,10 @@
+C:\Users\Paul\Source\Repos\wf-sql\wf-sql\bin\Debug\wf-sql.exe.config
+C:\Users\Paul\Source\Repos\wf-sql\wf-sql\bin\Debug\wf-sql.exe
+C:\Users\Paul\Source\Repos\wf-sql\wf-sql\bin\Debug\wf-sql.pdb
+C:\Users\Paul\Source\Repos\wf-sql\wf-sql\obj\Debug\wf-sql.csprojAssemblyReference.cache
+C:\Users\Paul\Source\Repos\wf-sql\wf-sql\obj\Debug\wf_sql.Form1.resources
+C:\Users\Paul\Source\Repos\wf-sql\wf-sql\obj\Debug\wf_sql.Properties.Resources.resources
+C:\Users\Paul\Source\Repos\wf-sql\wf-sql\obj\Debug\wf-sql.csproj.GenerateResource.cache
+C:\Users\Paul\Source\Repos\wf-sql\wf-sql\obj\Debug\wf-sql.csproj.CoreCompileInputs.cache
+C:\Users\Paul\Source\Repos\wf-sql\wf-sql\obj\Debug\wf-sql.exe
+C:\Users\Paul\Source\Repos\wf-sql\wf-sql\obj\Debug\wf-sql.pdb
